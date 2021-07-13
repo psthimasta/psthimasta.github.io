@@ -1,8 +1,8 @@
 ---
-name: Hasil Riset Elektabilitas Capresbem
-tools: [Riset, Survey]
+name: Elektabilitas Capresbem
+tools: [Riset, Survei]
 image: https://i.postimg.cc/c4h2Jgzq/1480228488555.jpg
-description: -
+description: Hasil Riset Elektabilitas Calon Presiden BEM ITS 2016/2017
 ---
 
 # Halo KM ITS!
