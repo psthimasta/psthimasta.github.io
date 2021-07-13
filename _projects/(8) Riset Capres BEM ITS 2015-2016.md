@@ -25,6 +25,12 @@ Seperti yang dijelaskan sebelumnya, bahwa terdapat tiga kriteria yang menjadi to
 
 Tabel 1. Perbandingan Nilai Kriteria
 
+|               |Prestasi       | Karakter   |Kepribadian   |
+| ------------- |:-------------:| :------:   | :-----:      |
+| Prestasi      |               | 4.0        | 3.0          |
+| Karakter      |               |            | 2.0          |     
+| Kepribadian   |               |            |              |
+
 Berdasarkan Tabel 1 dapat terlihat bahwa antara prestasi dan karakter mempunyai bobot nilai 4.0. Warna merah padat bobot penilaian antara prestasi dan karakter menunjukkan bahwa karakter cenderung ke arah kanan. Sehingga karakter cenderung  lebih disukai dari pada prestasi. Di Antara prestasi dan kepribadian mempunyai bobot 3.0, yang menunjukkan bahwa bobot nilai 3 ke kanan. Sehingga kepribadian lebih disukai jika dibandingkan dengan prestasi. Untuk karakter dan kepribadian mempunyai bobot nilai 2.0. Warna hitam untuk  bobot nilai 2.0 artinya bobot karakter bernilai 2 di sebelah kiri. Hasil kriteria yang paling penting dapat dilihat pada grafik berikut.
 
 ![Hasil](https://i.postimg.cc/C57JvPrx/1.png)
