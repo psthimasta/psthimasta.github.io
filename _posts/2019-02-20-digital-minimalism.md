@@ -1,6 +1,6 @@
 ---
 title: Digital Minimalism
-tags: [Social Media, Statistics, Mistakes]
+tags: [Social Media, Statistics, Misinterpretation]
 style: 
 color: 
 ---
