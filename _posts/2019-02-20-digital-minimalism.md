@@ -1,5 +1,5 @@
 ---
-title: Digital Minimalism
+title: 7 Deadly Sins of Statistical Misinterpretation
 tags: [Social Media, Statistics, Misinterpretation]
 style: 
 color: 
