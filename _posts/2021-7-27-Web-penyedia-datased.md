@@ -3,6 +3,7 @@ title: Web Penyedia Dataset
 tags: [website, dataset]
 style: fill
 color: success
+description: Daftar Website yang menyediakan berbagai macam, jenis, dan bentuk dataset
 ---
 
 ![alt text](https://i.postimg.cc/PrnZHMs7/0001.jpg)
